@@ -1,0 +1,17 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "trungtt1981@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethereumjs-tx": "^2.1.2",
+    "node-cron": "^3.0.3",
+    "web3": "^1.7.0"
+  }
+}
